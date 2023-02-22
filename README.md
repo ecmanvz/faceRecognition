@@ -1,1 +1,2 @@
 # faceRecognition
+Gerçekleştirilen uygulamalarda Python programlama dili kullanılmıştır. Açık kaynak kodlu bir kütüphane olan OpenCV (Open Source Computer Vision Library) Kütüphanesinden ve Deepface Kütüphanesinden yararlanılmıştır. Sonucunda fotoğraftan yüz tanıma ve gerçek zamanlı yüz tanıma uygulamaları geliştirilmiştir. HoG-CNN, Eigenfaces-Fisherfaces-LBPH, DeepFace–Facenet yüz tanıma algoritmaları uygulamalı olarak gösterilmiştir.
