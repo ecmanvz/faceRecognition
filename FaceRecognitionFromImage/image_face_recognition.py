@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 24 18:51:51 2022
 
-@author: kaya-
-"""
 
 #ilgili kütüphaneler
 import cv2
