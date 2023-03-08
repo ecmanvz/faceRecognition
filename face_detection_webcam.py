@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec 15 13:29:40 2022
-
-@author: kaya-
-"""
 
 import face_recognition
 import cv2
